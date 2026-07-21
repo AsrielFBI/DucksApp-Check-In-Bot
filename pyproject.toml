@@ -1,0 +1,10 @@
+[project]
+name = "ducks-checkin"
+version = "1.0.0"
+description = "Automated checkin for DucksApp"
+requires-python = ">=3.11"
+
+dependencies = [
+    "requests",
+    "python-dotenv"
+]
