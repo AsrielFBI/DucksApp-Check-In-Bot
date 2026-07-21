@@ -11,3 +11,4 @@ venv/
 .vscode/
 
 tests/
+bot/data/*.json
