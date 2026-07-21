@@ -80,7 +80,7 @@ python -m bot.main
 ```
 
 The bot will automatically execute the full workflow.
-
+INFO: (Due to lack of scheduling integration, YOU will have to schedule this script yourself inside your Operating System)
 ---
 
 ## Output
