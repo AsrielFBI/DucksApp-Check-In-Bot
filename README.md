@@ -6,6 +6,8 @@ This repository explores how to interact with DucksApp's REST API in a non-hosti
 
 Inspired by projects like AminoPy that encouraged me to explore API reverse engineering.
 
+P.S: I'm not a coder, I'm mainly a sysadmin specialized in cybersecurity, mainly hardening systems, doing infrastructure architecture, forensics engineering, and cyber legislation. Excuse my code for not being the best. Some of it has origins/enhancement of AI, others from Reddit and StackOverflow. Of course, adapted so it works for my project.
+
 
 ## ⚠️ Legal Notice
 
