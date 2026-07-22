@@ -12,3 +12,6 @@ venv/
 
 tests/
 bot/data/*.json
+/bot/data
+bot/data/discovery_result.json
+bot/data/activity_result.json
