@@ -55,10 +55,10 @@ pip install -r requirements.txt
 Create your configuration:
 
 ```bash
-cp .env.example bot/.env
+cp .env.example bot/config/.env
 ```
 
-Edit `bot/.env` with your credentials:
+Edit `bot/config/.env` with your credentials:
 
 ```env
 DUCK_BASE_URL=https://api.duckapps.com.br
